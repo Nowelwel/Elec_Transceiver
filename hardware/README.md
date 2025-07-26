@@ -3,6 +3,6 @@ Folder ini berisi semua file hardware untuk proyek **Transceiver Board**. Design
 
 ## 📃 Schematic
 Berikut adalah schematic dari Transceiver Board. 
-![Schematic](../images/schematic 2.0/jpg)
+![Schematic](../images/schematic/jpg)
 
 
