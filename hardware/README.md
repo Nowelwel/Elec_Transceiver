@@ -5,4 +5,6 @@ Folder ini berisi semua file hardware untuk proyek **Transceiver Board**. Design
 Berikut adalah schematic dari Transceiver Board 2.0. 
 ![Schematic](../images/schematic.jpg)
 
-
+## BOM
+Berikut adalah BOM board Transceiver 2.0.
+![Bom](../images/Transceiver 2.0 bom.jpg)
