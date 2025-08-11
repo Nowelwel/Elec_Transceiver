@@ -7,4 +7,4 @@ Berikut adalah schematic dari Transceiver Board 2.0.
 
 ## BOM
 Berikut adalah BOM board Transceiver 2.0.
-![Bom](../images/Transceiver 2.0 bom.jpg)
+![Bom](../images/Transceiver 2.0 bom.jpg) 
